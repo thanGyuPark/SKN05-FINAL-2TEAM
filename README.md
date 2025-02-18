@@ -187,3 +187,6 @@ docker-compose down --volumes && docker-compose up --build
   </p>
   
 </details>
+![SKN05_FINAL_최종시연영상+(1)+(1)](https://github.com/user-attachments/assets/9bd11161-0cde-47a8-88d0-7e96c31924f4)
+
+
