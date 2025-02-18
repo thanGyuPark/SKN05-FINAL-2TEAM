@@ -1,0 +1,8 @@
+# secrets
+secrets.json
+
+# myvenv
+myvenv/
+
+# cache
+__pycache__/
