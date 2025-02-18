@@ -191,11 +191,8 @@ docker-compose down --volumes && docker-compose up --build
 
 ### 팀원
 
-| 팀원 명   | GitHub 계정                                      |
-|:---------:|:------------------------------------------------:|
-| **윤상혁** | [@ggreing](https://github.com/ggreing)           |
-| **이준호** | [@Lanvizu](https://github.com/Lanvizu)            |
-| **황호준** | [@hhj1213](https://github.com/hhj1213)           |
-| **박찬규** | [@thanGyuPark](https://github.com/thanGyuPark)     |
+| **윤상혁** | **이준호** | **황호준** | **박찬규** |
+|:---------:|:---------:|:---------:|:-----------:|
+| [@ggreing](https://github.com/ggreing) | [@Lanvizu](https://github.com/Lanvizu) | [@hhj1213](https://github.com/hhj1213) | [@thanGyuPark](https://github.com/thanGyuPark) |
 
-**개발기간:** 2024.12.20 ~ 2025.02.19
+**개발기간**: 2024.12.20 - 2025.02.19
