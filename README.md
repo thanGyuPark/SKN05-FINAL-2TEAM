@@ -18,7 +18,7 @@
 이러한 흐름 속에서 **퀀톡**은 다양한 금융 정보 분석과 추천 서비스를 통해 사용자들에게 맞춤형 투자 솔루션을 제공하며, 급변하는 디지털 금융 환경에 최적화된 서비스를 목표로 합니다.
 
 <details>
-<summary>빌드 방법</summary>
+<summary><h2>빌드 방법</h2></summary>
 
 ## AWS EC2 설정
 
@@ -159,7 +159,7 @@ docker-compose down --volumes && docker-compose up --build
 </details>
 
 <details>
-<summary>👀 사용자 경험 미리보기</summary>
+<summary><h2>👀 사용자 경험 미리보기</h2></summary>
   
   ## 로그인
   
