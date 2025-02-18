@@ -1,12 +1,29 @@
-# SKN05-FINAL-2TEAM
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> ![Nginx](https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/gunicorn-444444?style=flat&logo=gunicorn&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=flat&logo=fastapi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-2FBF71?style=flat&logo=uvicorn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FF7A25?style=flat&logo=huggingface&logoColor=white)
+
+
+
+# 금융 정보 분석 및 추천 서비스: 퀀톡
+
+## 프로젝트 개요
+
+개인 투자자와 모바일 기반 사용자의 증가와 함께 금융 챗봇 시장은 연평균 24% 이상의 성장세를 보이고 있습니다.
+
+이러한 흐름 속에서 **퀀톡**은 다양한 금융 정보 분석과 추천 서비스를 통해 사용자들에게 맞춤형 투자 솔루션을 제공하며, 급변하는 디지털 금융 환경에 최적화된 서비스를 목표로 합니다.
 
 <details>
-<summary>빌드 정리 접기/펼치기</summary>
+<summary>빌드 방법</summary>
 
 ## AWS EC2 설정
 
 ### 초기 설정
-- Ubuntu 선택
+- Ubuntu 서버 선택
 - 키페어 설정
 - 보안 그룹 설정
 - 스토리지 구성 (30GB)
@@ -142,7 +159,7 @@ docker-compose down --volumes && docker-compose up --build
 </details>
 
 <details>
-<summary>gif</summary>
+<summary>👀 사용자 경험 미리보기</summary>
   
   ## 로그인
   
@@ -154,6 +171,12 @@ docker-compose down --volumes && docker-compose up --build
 
   <p align="center">
     <img src = "https://github.com/user-attachments/assets/c6299c5b-7bad-436f-9b18-b7bd9b1a410c">
+  </p>
+
+  ## 뉴스 분석
+
+  <p align="center">
+    <img src = "https://github.com/user-attachments/assets/331f0311-12c7-4cfc-8760-34a368b9b0de">
   </p>
   
 </details>
