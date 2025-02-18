@@ -167,6 +167,13 @@ docker-compose down --volumes && docker-compose up --build
     <img src = "https://github.com/user-attachments/assets/69a42fcf-3ebe-4afe-b397-88d5be0c8db0">
   </p>
 
+  ## 관심 주식 설정
+
+  <p align="center">
+    <img src = "https://github.com/user-attachments/assets/40101436-7911-4a90-ab8f-5ac79fa1a223">
+  </p>
+  
+
   ## 기업 분석
 
   <p align="center">
