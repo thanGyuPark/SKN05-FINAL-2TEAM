@@ -189,4 +189,10 @@ docker-compose down --volumes && docker-compose up --build
 </details>
 ![SKN05_FINAL_최종시연영상+(1)+(1)](https://github.com/user-attachments/assets/9bd11161-0cde-47a8-88d0-7e96c31924f4)
 
+### 팀원
 
+|  **윤상혁** |  **이준호** |  **황호준** |  **박찬규** |
+|:---------:|:---------:|:---------:|:-----------:|
+| [@ggreing](https://github.com/ggreing) | [@Lanvizu](https://github.com/Lanvizu) | [@hhj1213](https://github.com/hhj1213) |  [@thanGyuPark](https://github.com/thanGyuPark) |
+
+개발기간: 2024.12.20 - 2025.02.19
