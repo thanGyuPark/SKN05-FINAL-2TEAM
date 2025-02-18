@@ -186,6 +186,12 @@ docker-compose down --volumes && docker-compose up --build
     <img src = "https://github.com/user-attachments/assets/331f0311-12c7-4cfc-8760-34a368b9b0de">
   </p>
   
+   ## 차트 분석
+
+  <p align="center">
+    <img src = "https://github.com/user-attachments/assets/f4d67189-028b-454c-b492-9fbd6fa14021">
+  </p>
+  
 </details>
 ![SKN05_FINAL_최종시연영상+(1)+(1)](https://github.com/user-attachments/assets/9bd11161-0cde-47a8-88d0-7e96c31924f4)
 
