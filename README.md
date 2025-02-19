@@ -207,6 +207,25 @@ docker-compose down --volumes && docker-compose up --build
   
 </details>
 
+
+<details>
+<summary><h2>프로젝트 환경</h2></summary>
+
+ <h2>ERD</h2>
+ <p align="center">
+   <img src = "https://github.com/user-attachments/assets/775d1321-2cf2-43a8-9d08-ee7beaa5a867">
+ </p>
+
+ <h2>시스템 아키텍처</h2>
+ <p align="center">
+   <img src = "https://github.com/user-attachments/assets/e507d410-bc1a-4a8d-a2ad-394fab1246b5">
+ </p>
+
+ 
+
+ 
+</details>
+
 ### 팀원
 
 | **윤상혁** | **이준호** | **황호준** | **박찬규** |
