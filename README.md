@@ -166,7 +166,7 @@
 
 
 <details>
-<summary><h2>👀 사용자 경험 미리보기</h2></summary>
+<summary><h2>👀 기능 미리보기</h2></summary>
 
   ## 회원가입 (이메일 인증)
   
@@ -205,27 +205,6 @@
     <img src = "https://github.com/user-attachments/assets/5eed10fb-d4fb-4f87-8c43-b76a42300a8f">
   </p>
   
-</details>
-
-
-<details>
-<summary><h2>프로젝트 환경</h2></summary>
-
- <h2>ERD</h2>
- <p>
-   <img src = "https://github.com/user-attachments/assets/775d1321-2cf2-43a8-9d08-ee7beaa5a867">
- </p>
-
- <h2>시스템 아키텍처</h2>
- <p>
-   <img src = "https://github.com/user-attachments/assets/e507d410-bc1a-4a8d-a2ad-394fab1246b5">
- </p>
-
- <h2>플로우 차트</h2>
- <p>
-   <img src = "https://github.com/user-attachments/assets/211456f0-36f4-4858-ad95-d6ed77d64125">
- </p>
-
 </details>
 
 ### 팀원
