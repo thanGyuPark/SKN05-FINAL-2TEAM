@@ -26,7 +26,7 @@
 
 <h2>⚙️ 빌드 방법</h2>
 <details>
-  <summary>AWS 빌드 설정</summary>
+  <summary><h3>AWS 빌드 설정</h3></summary>
  
  ## AWS EC2
   - Ubuntu 서버
@@ -163,7 +163,7 @@
  
 </details>
 
-
+-----
 
 <details>
 <summary><h2>👀 기능 미리보기</h2></summary>
@@ -206,6 +206,8 @@
   </p>
   
 </details>
+
+-----
 
 ### 👪 팀원
 
