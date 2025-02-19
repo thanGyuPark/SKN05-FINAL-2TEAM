@@ -167,6 +167,12 @@ docker-compose down --volumes && docker-compose up --build
 
 <details>
 <summary><h2>👀 사용자 경험 미리보기</h2></summary>
+
+  ## 회원가입 (이메일 인증)
+  
+  <p align="center">
+    <img src = "https://github.com/user-attachments/assets/18f23b6e-94bd-4ef8-85dd-4c7bfb442cbe">
+  </p>
   
   ## 로그인
   
