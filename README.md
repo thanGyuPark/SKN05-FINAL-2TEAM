@@ -170,38 +170,38 @@ docker-compose down --volumes && docker-compose up --build
 
   ## 회원가입 (이메일 인증)
   
-  <p align="center">
+  <p>
     <img src = "https://github.com/user-attachments/assets/18f23b6e-94bd-4ef8-85dd-4c7bfb442cbe">
   </p>
   
   ## 로그인
   
-  <p align="center">
+  <p>
     <img src = "https://github.com/user-attachments/assets/69a42fcf-3ebe-4afe-b397-88d5be0c8db0">
   </p>
 
   ## 관심 주식 설정
 
-  <p align="center">
+  <p>
     <img src = "https://github.com/user-attachments/assets/40101436-7911-4a90-ab8f-5ac79fa1a223">
   </p>
   
 
   ## 기업 분석
 
-  <p align="center">
+  <p>
     <img src = "https://github.com/user-attachments/assets/c6299c5b-7bad-436f-9b18-b7bd9b1a410c">
   </p>
 
   ## 뉴스 분석
 
-  <p align="center">
+  <p>
     <img src = "https://github.com/user-attachments/assets/331f0311-12c7-4cfc-8760-34a368b9b0de">
   </p>
   
    ## 차트 분석
 
-  <p align="center">
+  <p>
     <img src = "https://github.com/user-attachments/assets/5eed10fb-d4fb-4f87-8c43-b76a42300a8f">
   </p>
   
@@ -212,13 +212,18 @@ docker-compose down --volumes && docker-compose up --build
 <summary><h2>프로젝트 환경</h2></summary>
 
  <h2>ERD</h2>
- <p align="center">
+ <p>
    <img src = "https://github.com/user-attachments/assets/775d1321-2cf2-43a8-9d08-ee7beaa5a867">
  </p>
 
  <h2>시스템 아키텍처</h2>
- <p align="center">
+ <p>
    <img src = "https://github.com/user-attachments/assets/e507d410-bc1a-4a8d-a2ad-394fab1246b5">
+ </p>
+
+ <h2>플로우 차트</h2>
+ <p>
+   <img src = "https://github.com/user-attachments/assets/211456f0-36f4-4858-ad95-d6ed77d64125">
  </p>
 
  
