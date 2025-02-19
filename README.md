@@ -202,7 +202,7 @@ docker-compose down --volumes && docker-compose up --build
    ## 차트 분석
 
   <p align="center">
-    <img src = "https://github.com/user-attachments/assets/f4d67189-028b-454c-b492-9fbd6fa14021">
+    <img src = "https://github.com/user-attachments/assets/5eed10fb-d4fb-4f87-8c43-b76a42300a8f">
   </p>
   
 </details>
