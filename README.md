@@ -31,11 +31,11 @@
 <details>
   <summary><h3>AWS 빌드 설정</h3></summary>
  
- ## AWS EC2
+ ### AWS EC2
   - Ubuntu 서버
   - 스토리지 구성 (30GB)
   
-  ### 접속 및 스왑 메모리 설정
+  **접속 및 스왑 메모리 설정**
   - mobaXterm으로 실행
   - 빌드 시 RAM 부족 해결을 위한 스왑 메모리 설정:
   
@@ -59,14 +59,14 @@
   /swapfile swap swap defaults 0 0
   ```
   
-  ## 프로젝트 설정
+  ### 프로젝트 설정
   
-  ### 프로젝트 클론
+  **프로젝트 클론**
   ```bash
   git clone https://github.com/Lanvizu/SKN05_Final.git
   ```
   
-  ### AWS 빌드 시 파일 경로 설정 변경
+  **AWS 빌드 시 파일 경로 설정 변경**
   - `backend/.env` 파일 생성: IPV4_ADDRESS, DNS_ADDRESS, NGROK_URL 수정
     <details>
     <summary>.env 파일 예시</summary>
@@ -118,9 +118,9 @@
     </details>
   - `frontend/package.json` 파일 변경: proxy 수정
   
-  ## 환경 설정
+  ### 환경 설정
   
-  ### Docker 설치
+  **Docker 설치**
   ```bash
   sudo apt-get update
   
@@ -156,12 +156,12 @@
   sudo apt install docker-compose
   ```
   
-  ### Docker Compose 실행
+  **Docker Compose 실행**
   ```bash
   docker-compose down --volumes && docker-compose up --build
   ```
   
-  ## 향후 계획
+  **향후 계획**
   최소한의 설정 변경 후 Jenkins를 통한 CI/CD 관리 구현
  
 </details>
@@ -171,38 +171,38 @@
 <details>
 <summary><h2>👀 기능 미리보기</h2></summary>
 
-  ## 회원가입 (이메일 인증)
+  ### 회원가입 (이메일 인증)
   
   <p>
     <img src = "https://github.com/user-attachments/assets/18f23b6e-94bd-4ef8-85dd-4c7bfb442cbe">
   </p>
   
-  ## 로그인
+  ### 로그인
   
   <p>
     <img src = "https://github.com/user-attachments/assets/69a42fcf-3ebe-4afe-b397-88d5be0c8db0">
   </p>
 
-  ## 관심 주식 설정
+  ### 관심 주식 설정
 
   <p>
     <img src = "https://github.com/user-attachments/assets/40101436-7911-4a90-ab8f-5ac79fa1a223">
   </p>
   
 
-  ## 기업 분석
+  ### 기업 분석
 
   <p>
     <img src = "https://github.com/user-attachments/assets/c6299c5b-7bad-436f-9b18-b7bd9b1a410c">
   </p>
 
-  ## 뉴스 분석
+  ### 뉴스 분석
 
   <p>
     <img src = "https://github.com/user-attachments/assets/331f0311-12c7-4cfc-8760-34a368b9b0de">
   </p>
   
-   ## 차트 분석
+   ### 차트 분석
 
   <p>
     <img src = "https://github.com/user-attachments/assets/5eed10fb-d4fb-4f87-8c43-b76a42300a8f">
